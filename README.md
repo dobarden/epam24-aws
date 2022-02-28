@@ -15,7 +15,7 @@ This Terraform code deploys WordPress CMS in AWS Cloud. The following infrastruc
 2. export AWS_SECRET_ACCESS_KEY=...
 
 ## Creating the Infrastructure
-1. git clone https://gitub.com/dobarden/epam24-aws.git
+1. git clone https://github.com/dobarden/epam24-aws.git
 2. cd epam24-aws/
 3. terraform init
 4. terraform apply
